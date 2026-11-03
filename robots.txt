@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secretadd.github.io/secret-advertising-pro/sitemap.xml
